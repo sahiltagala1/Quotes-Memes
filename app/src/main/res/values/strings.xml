@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quotes&amp;Memes</string>
+
+
+    <string name="q1">“There are two ways of spreading light: to be the candle or the mirror that reflects it.”  \n– Edith Wharton</string>
+    <string name="q2">“You do not find the happy life. You make it.” \n– Camilla Eyring Kimball</string>
+    <string name="q3">“The most wasted of days is one without laughter.” \n– E.E. Cummings</string>
+    <string name="q4">“Stay close to anything that makes you glad you are alive.” \n– Hafez</string>
+    <string name="q5">“Make each day your masterpiece.” \n– John Wooden</string>
+    <string name="q6">“Happiness often sneaks in through a door you didn’t know you left open.” \n– John Barrymore</string>
+    <string name="q7">“Happiness is not by chance, but by choice.” \n– Jim Rohn</string>
+    <string name="q8">“Life changes very quickly, in a very positive way, if you let it.” \n– Lindsey Vonn</string>
+    <string name="q9">“Keep your face to the sunshine and you cannot see a shadow.” \n– Helen Keller</string>
+    <string name="q10">“Impossible is for the unwilling.” \n– John Keats</string>
+    <string name="q11">“No pressure, no diamonds.” \n– Thomas Carlyle</string>
+    <string name="q12">“Believe you can and you’re halfway there.” \n– Theodore Roosevelt</string>
+    <string name="q13">“Failure is the condiment that gives success its flavor.” \n– Truman Capote</string>
+    <string name="q14">“It is never too late to be what you might have been.” \n– George Eliot</string>
+    <string name="q15">“When you have a dream, you’ve got to grab it and never let go.” \n– Carol Burnett</string>
+    <string name="q16">“You must be the change you wish to see in the world.” \n– Mahatma Gandhi</string>
+    <string name="q17">“Stay foolish to stay sane.” \n– Maxime Lagacé</string>
+    <string name="q18">“Stay hungry. Stay foolish.” \n– Steve Jobs</string>
+    <string name="q19">“Whatever you are, be a good one.” \n– Abraham Lincoln </string>
+    <string name="q20">“You must do the things you think you cannot do.” \n– Eleanor Roosevelt</string>
+    <string name="q21">“Wherever you go, go with all your heart.” \n– Confucius</string>
+    <string name="q22">“Be faithful to that which exists within yourself.” \n– André Gide</string>
+    <string name="q23">“Dream big and dare to fail.” \n– Norman Vaughan</string>
+    <string name="q24">“My mission in life is not merely to survive, but to thrive.” \n– Maya Angelou</string>
+    <string name="q25">“You are enough just as you are.” \n– Meghan Markle</string>
+    <string name="q26">“To be the best, you must be able to handle the worst.” \n– Wilson Kanadi</string>
+    <string name="q27">“No matter what you’re going through, there’s a light at the end of the tunnel.” \n– Demi Lovato</string>
+    <string name="q28">“Life is like riding a bicycle. To keep your balance, you must keep moving.” \n– Albert Einstein</string>
+    <string name="q29">“Every moment is a fresh beginning.” \n– T.S. Eliot</string>
+    <string name="q30">“No guts, no story.” \n– Chris Brady</string>
+
+</resources>
